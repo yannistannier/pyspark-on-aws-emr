@@ -1,0 +1,15 @@
+[
+    {
+        "Classification": "spark-env",
+        "Properties": {},
+        "Configurations": [
+            {
+                "Classification": "export",
+                "Properties": {
+                    "PYSPARK_PYTHON": "python34"
+                },
+                "Configurations": []
+            }
+        ]
+    }
+]
